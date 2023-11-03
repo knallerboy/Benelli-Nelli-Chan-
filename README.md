@@ -8,3 +8,4 @@
 # thank you
 original 3d model from:
 https://www.mocapfusion.com/
+https://store.steampowered.com/app/1540000/Mocap_Fusion__VR/
